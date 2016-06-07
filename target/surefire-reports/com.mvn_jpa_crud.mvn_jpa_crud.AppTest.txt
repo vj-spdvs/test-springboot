@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mvn_jpa_crud.mvn_jpa_crud.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.003 sec - in com.mvn_jpa_crud.mvn_jpa_crud.AppTest
